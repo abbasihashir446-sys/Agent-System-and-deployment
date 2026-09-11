@@ -1,5 +1,4 @@
 # Slide Outline — Support Ticket Triage Agent
-### For a quick 5-7 minute talk
 
 **1. The problem**
 - Right now a person has to read every ticket, figure out what it is, and decide what
